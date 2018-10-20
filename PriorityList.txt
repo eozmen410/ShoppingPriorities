@@ -1,0 +1,4 @@
+Milk 6
+Water 8
+Bread 3
+Chocolate 15
